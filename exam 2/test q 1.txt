@@ -1,0 +1,23 @@
+a = 2 -> 9 -> 3 
+b = 5 -> 16 -> 32
+c = 30 -> 10
+n = 44
+
+
+Output:
+Magic numbers! 3, 32, 10, & 44
+Runners Up! 9 & 9.9
+
+notes:
+alt(w, b, a) ->
+alt(w, &u, &t) -> alt(4, 8, 9)
+p = q + r + t -> p = 2 + 16 + 3
+x  = 21 + 9
+x = 30
+
+alt(a3, b&16, c&30)
+p = 2 + 32 + 10
+p = 44
+
+*i = 9
+*d = 9.9
